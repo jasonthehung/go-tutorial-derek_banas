@@ -9,4 +9,5 @@ func main() {
 	for _, v := range rArr {
 		fmt.Printf("Rune Array : %d\n", v)
 	}
+
 }
